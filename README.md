@@ -8,7 +8,7 @@ This is the code from a tutorial done on youtube [here](https://www.youtube.com/
 
 First you'll need to fork or download the respository.
 ```
-git clone 
+git clone : https://github.com/Pramod0215/react-chat-community.git
 ```
 
 Then in terminal you'll install the node modules
